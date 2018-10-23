@@ -1,0 +1,7 @@
+The table above was extracted from http://data.go.id and consists of columns kode_provinsi, nama_provinsi,
+tingkat_pendidikan, jenis_kelamin, and jumlah_individu
+It also shows twenty samples out of 462 data of proverty-stricken children's education level in Indonesia as of July
+2012. The data consists of total numbers of girls and boys respectively, from thirty four provinces in Indonesia who lives
+under poverty, that goes to school. We can also see that there are seven levels of education in Indonesia, SD/SDLB/Paket A, 
+M. Ibtidaiyah, SMPT/SMPLB/Paket B, M. Tsanawiyah, SMA/SMK/SMALB/Paket C, M. Aliyah, and Perguruan Tinggi.
+Please scroll down for more detalied analysis and explanation.
